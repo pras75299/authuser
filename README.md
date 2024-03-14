@@ -92,9 +92,7 @@ Briefly explain how to use your application, including how to sign up, log in, a
 
 ## Authors
 
-- **Prashant Kumar Singh** - _Initial work_ - [YourGitHub](https://github.com/YourGitHub)
-
-See also the list of [contributors](https://github.com/yourproject/contributors) who participated in this project.
+- **Prashant Kumar Singh** - _Initial work_ - [pras75299](https://github.com/pras75299)
 
 ## License
 
